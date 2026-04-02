@@ -1,1179 +1,1115 @@
-[
-  {
-    "product_number": "P10002",
-    "name": "Chicken, Orange Dark Battered",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 23.35,
-    "w11": 23.26,
-    "w12": 22.71,
-    "w13": 23.31,
-    "average": 23.16
-  },
-  {
-    "product_number": "P10006",
-    "name": "Chicken, LTO Breast Btrd Chunk",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 1.39,
-    "w11": 2.05,
-    "w12": 1.53,
-    "w13": 2.07,
-    "average": 1.75
-  },
-  {
-    "product_number": "P10008",
-    "name": "Chicken, Breast Sliced Marinated",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 0.82,
-    "w11": 0.63,
-    "w12": 0.58,
-    "w13": 0.59,
-    "average": 0.66
-  },
-  {
-    "product_number": "P10018",
-    "name": "Chicken, Breast Bites Battered",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 1.03,
-    "w11": 1.18,
-    "w12": 0.73,
-    "w13": 1.18,
-    "average": 1.03
-  },
-  {
-    "product_number": "P10019",
-    "name": "Chicken, Dark Diced Marinated",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 2.93,
-    "w11": 4.41,
-    "w12": 2.8,
-    "w13": 4.84,
-    "average": 3.73
-  },
-  {
-    "product_number": "P10027",
-    "name": "Chicken, Breast Strip Battered",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 3.15,
-    "w11": 2.76,
-    "w12": 3.42,
-    "w13": 3.32,
-    "average": 3.17
-  },
-  {
-    "product_number": "P10028",
-    "name": "Chicken, Teriyaki Thigh Marinated",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 9.27,
-    "w11": 8.82,
-    "w12": 7.69,
-    "w13": 8.85,
-    "average": 8.65
-  },
-  {
-    "product_number": "P5007",
-    "name": "Beef, Sliced Marinated",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 1.64,
-    "w11": 2.27,
-    "w12": 2.45,
-    "w13": 0.59,
-    "average": 1.73
-  },
-  {
-    "product_number": "P5017",
-    "name": "Beef, BB Strip Breaded",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 3.23,
-    "w11": 3.31,
-    "w12": 2.91,
-    "w13": 2.8,
-    "average": 3.06
-  },
-  {
-    "product_number": "P5020",
-    "name": "Beef, Top Sirloin Steak",
-    "unit": "LB",
-    "category": "Meat",
-    "w10": 1.41,
-    "w11": 1.26,
-    "w12": 1.28,
-    "w13": 2.24,
-    "average": 1.55
-  },
-  {
-    "product_number": "P16032",
-    "name": "Shrimp, Battered Tempura 29/33",
-    "unit": "LB",
-    "category": "Seafood",
-    "w10": 4.85,
-    "w11": 4.46,
-    "w12": 4.63,
-    "w13": 4.44,
-    "average": 4.6
-  },
-  {
-    "product_number": "P19961",
-    "name": "Kale, Chopped",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.12
-  },
-  {
-    "product_number": "P19910",
-    "name": "Bell Pepper, Yellow",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.1
-  },
-  {
-    "product_number": "P19909",
-    "name": "Bell Pepper, Red",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.48
-  },
-  {
-    "product_number": "P19186",
-    "name": "Bean, Green Washed & Trimmed",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.48
-  },
-  {
-    "product_number": "P19169",
-    "name": "Baby Broccoli",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.47
-  },
-  {
-    "product_number": "P19149",
-    "name": "Cabbage, K-Minus Shredded",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 7.1
-  },
-  {
-    "product_number": "P19147",
-    "name": "Kale, Shredded",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.26
-  },
-  {
-    "product_number": "P19085",
-    "name": "Celery K",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.18
-  },
-  {
-    "product_number": "P19078",
-    "name": "Broccoli Florets",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.06
-  },
-  {
-    "product_number": "P19055",
-    "name": "Zucchini",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 3.51
-  },
-  {
-    "product_number": "P19048",
-    "name": "Onion, Yellow Fresh",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.67
-  },
-  {
-    "product_number": "P19046",
-    "name": "Onion, Green",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.2
-  },
-  {
-    "product_number": "P19045",
-    "name": "Mushroom, Fresh",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.1
-  },
-  {
-    "product_number": "P19025",
-    "name": "Celery",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.39
-  },
-  {
-    "product_number": "P19016",
-    "name": "Cabbage",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 5.12
-  },
-  {
-    "product_number": "P19013",
-    "name": "Broccoli",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.15
-  },
-  {
-    "product_number": "P19005",
-    "name": "Bean, Green",
-    "unit": "LB",
-    "category": "Produce",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.13
-  },
-  {
-    "product_number": "P1079",
-    "name": "Cookies, Fortune PX",
-    "unit": "CT",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 93.87
-  },
-  {
-    "product_number": "P1260",
-    "name": "Rangoon, Cream Cheese",
-    "unit": "CT",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 51.04
-  },
-  {
-    "product_number": "P1001",
-    "name": "Springroll, Veg",
-    "unit": "CT",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 34.85
-  },
-  {
-    "product_number": "P1102",
-    "name": "Noodles, (K-) Chow Mein",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 12.85
-  },
-  {
-    "product_number": "P1112",
-    "name": "Rice, Long Grain",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 12.1
-  },
-  {
-    "product_number": "P2169",
-    "name": "Sauce, Orange Chicken RTU",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 11.5
-  },
-  {
-    "product_number": "P1107",
-    "name": "Oil, Salad",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 6.67
-  },
-  {
-    "product_number": "P1004",
-    "name": "Eggroll, Chicken",
-    "unit": "CT",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 4.55
-  },
-  {
-    "product_number": "P2002",
-    "name": "Eggs, Liquid Cage Free",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 2.17
-  },
-  {
-    "product_number": "P1295",
-    "name": "Sauce, Sweet and Sour PX",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.93
-  },
-  {
-    "product_number": "P1249",
-    "name": "Sauce, Honey Walnut PX",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.76
-  },
-  {
-    "product_number": "P1404",
-    "name": "Sauce, Honey",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.76
-  },
-  {
-    "product_number": "P1684",
-    "name": "Apple, Crisps Dried",
-    "unit": "CT",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.47
-  },
-  {
-    "product_number": "P19054",
-    "name": "Peas & Carrots",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.83
-  },
-  {
-    "product_number": "P1801",
-    "name": "Sauce, LTO Dynamite Sweet & Sour w/Buldak",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.7
-  },
-  {
-    "product_number": "P19002",
-    "name": "Pineapple, Chunk",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.69
-  },
-  {
-    "product_number": "P1233",
-    "name": "Sauce, SweetFire PX",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.88
-  },
-  {
-    "product_number": "P1580",
-    "name": "Sauce, Stir Fry Black Pepper",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 1.06
-  },
-  {
-    "product_number": "P1093",
-    "name": "Ginger, Garlic Blend",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.35
-  },
-  {
-    "product_number": "P1158",
-    "name": "Nuts, Walnut Glazed",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.35
-  },
-  {
-    "product_number": "P1116",
-    "name": "Sauce, Cooking Basic (K-)",
-    "unit": "GAL",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.31
-  },
-  {
-    "product_number": "P1268",
-    "name": "Sauce, Stir Fry PX",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.07
-  },
-  {
-    "product_number": "P1272",
-    "name": "Starch, Modified PX",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.07
-  },
-  {
-    "product_number": "P19052",
-    "name": "Nuts, Peanuts",
-    "unit": "LB",
-    "category": "Grocery",
-    "w10": null,
-    "w11": null,
-    "w12": null,
-    "w13": null,
-    "average": 0.21
-  },
-  {
-    "product_number": "P25353",
-    "name": "Bev, Honest Kids Apple Juice",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.73,
-    "w11": 0.9,
-    "w12": 0.39,
-    "w13": 0.63,
-    "average": 0.66
-  },
-  {
-    "product_number": "P25980",
-    "name": "Bev, Dasani Water 16.9 oz",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.94,
-    "w11": 0.79,
-    "w12": 0.25,
-    "w13": 0.6,
-    "average": 0.64
-  },
-  {
-    "product_number": "P25911",
-    "name": "Bev, Coke Classic (Bottled)",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.35,
-    "w11": 0.6,
-    "w12": 0.38,
-    "w13": 0.58,
-    "average": 0.47
-  },
-  {
-    "product_number": "P25973",
-    "name": "Bev, Coke Mexican Glass",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.35,
-    "w11": 0.44,
-    "w12": 0.33,
-    "w13": 0.38,
-    "average": 0.38
-  },
-  {
-    "product_number": "P25386",
-    "name": "Bev, Smart Water 700ML",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.43,
-    "w11": 0.11,
-    "w12": 0.25,
-    "w13": 0.35,
-    "average": 0.29
-  },
-  {
-    "product_number": "P25908",
-    "name": "Bev, Powerade Mountain Berry Blast",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.38,
-    "w11": 0.14,
-    "w12": 0.31,
-    "w13": 0.28,
-    "average": 0.28
-  },
-  {
-    "product_number": "P25910",
-    "name": "Bev, Sprite (Bottle)",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.45,
-    "w11": -0.09,
-    "w12": 0.32,
-    "w13": 0.41,
-    "average": 0.28
-  },
-  {
-    "product_number": "P25959",
-    "name": "Bev, Coke Zero (Bottled)",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.23,
-    "w11": 0.17,
-    "w12": 0.29,
-    "w13": 0.24,
-    "average": 0.23
-  },
-  {
-    "product_number": "P25974",
-    "name": "Bev, Bai Antioxidant Coco Fusion",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.37,
-    "w11": 0.03,
-    "w12": 0.31,
-    "w13": 0.03,
-    "average": 0.19
-  },
-  {
-    "product_number": "P25349",
-    "name": "Bev, Monster Energy Drink",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.44,
-    "w11": -0.38,
-    "w12": 0.2,
-    "w13": 0.32,
-    "average": 0.16
-  },
-  {
-    "product_number": "P25005",
-    "name": "Bev, Dr. Pepper BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.15,
-    "w11": 0.13,
-    "w12": 0.14,
-    "w13": 0.16,
-    "average": 0.14
-  },
-  {
-    "product_number": "P25424",
-    "name": "Bev, Concentrate Pomegranate Pineapple Lemon Refresher",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.01,
-    "w11": 0.17,
-    "w12": 0.19,
-    "w13": 0.18,
-    "average": 0.14
-  },
-  {
-    "product_number": "P25341",
-    "name": "Bev, Tea Black WB",
-    "unit": "CT",
-    "category": "Beverages",
-    "w10": 0.47,
-    "w11": -0.5,
-    "w12": 0.09,
-    "w13": 0.38,
-    "average": 0.12
-  },
-  {
-    "product_number": "P25421",
-    "name": "Bev, Concentrate Watermelon Mango Refresher",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.12,
-    "w11": 0.16,
-    "w12": 0.1,
-    "w13": 0.1,
-    "average": 0.12
-  },
-  {
-    "product_number": "P25907",
-    "name": "Bev, Powerade Fruit Punch",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.29,
-    "w11": -0.06,
-    "w12": 0.04,
-    "w13": 0.15,
-    "average": 0.11
-  },
-  {
-    "product_number": "P25422",
-    "name": "Bev, Concentrate Peach Lychee Refresher",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.1,
-    "w11": 0.09,
-    "w12": 0.09,
-    "w13": 0.13,
-    "average": 0.1
-  },
-  {
-    "product_number": "P25004",
-    "name": "Bev, Coke Diet BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.12,
-    "w11": -0.02,
-    "w12": 0.15,
-    "w13": 0.09,
-    "average": 0.09
-  },
-  {
-    "product_number": "P25077",
-    "name": "Bev, Coke Cherry BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.17,
-    "w11": 0.05,
-    "w12": 0.06,
-    "w13": 0.07,
-    "average": 0.09
-  },
-  {
-    "product_number": "P25003",
-    "name": "Bev, Coke Classic BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.11,
-    "w11": 0.04,
-    "w12": 0.12,
-    "w13": -0.01,
-    "average": 0.07
-  },
-  {
-    "product_number": "P25423",
-    "name": "Bev, Concentrate Mango Guava Tea Refresher",
-    "unit": "BOTL",
-    "category": "Beverages",
-    "w10": 0.16,
-    "w11": -0.02,
-    "w12": 0.01,
-    "w13": 0.1,
-    "average": 0.07
-  },
-  {
-    "product_number": "P25027",
-    "name": "Bev, Coke Sprite 5G BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.07,
-    "w11": 0.06,
-    "w12": 0.03,
-    "w13": 0.06,
-    "average": 0.05
-  },
-  {
-    "product_number": "P25933",
-    "name": "Bev, Fuze Rasberry BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.06,
-    "w11": 0.05,
-    "w12": 0.03,
-    "w13": 0.05,
-    "average": 0.05
-  },
-  {
-    "product_number": "P25943",
-    "name": "Bev, Coke Minute Maid Lemonade BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.06,
-    "w11": 0.06,
-    "w12": 0.03,
-    "w13": 0.04,
-    "average": 0.05
-  },
-  {
-    "product_number": "P25006",
-    "name": "Bev, Coke Fanta Orange BIB",
-    "unit": "GAL",
-    "category": "Beverages",
-    "w10": 0.07,
-    "w11": 0.06,
-    "w12": 0.02,
-    "w13": 0.04,
-    "average": 0.04
-  },
-  {
-    "product_number": "P35432",
-    "name": "Napkin, Kraft Interfold PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 65.99,
-    "w11": 28.38,
-    "w12": 11.8,
-    "w13": null,
-    "average": 121.09
-  },
-  {
-    "product_number": "P35542",
-    "name": "Kit, Cutlery PX",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 52.8,
-    "w11": 53.58,
-    "w12": 14.75,
-    "w13": null,
-    "average": 55.95
-  },
-  {
-    "product_number": "P35135",
-    "name": "Container, Foam White 3-Compartment PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 142.23,
-    "w11": 18.48,
-    "w12": -14.75,
-    "w13": null,
-    "average": 49.24
-  },
-  {
-    "product_number": "P35580",
-    "name": "Chopsticks, Bamboo Wrapped PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 58.67,
-    "w11": -31.52,
-    "w12": -59.01,
-    "w13": null,
-    "average": 41.26
-  },
-  {
-    "product_number": "P35048",
-    "name": "Fork, Plastic Black Heavy",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 7.33,
-    "w11": 63.04,
-    "w12": 0.79,
-    "w13": null,
-    "average": 41.03
-  },
-  {
-    "product_number": "P35477",
-    "name": "Bag, T-Shirt Large PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 87.83,
-    "w11": 15.76,
-    "w12": 6.31,
-    "w13": null,
-    "average": 39.17
-  },
-  {
-    "product_number": "P35078",
-    "name": "Napkin, Kraft",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 22.0,
-    "w11": 11.91,
-    "w12": 5.04,
-    "w13": null,
-    "average": 29.26
-  },
-  {
-    "product_number": "P35213",
-    "name": "Straw, 8.75\" Clear Wrapped",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 50.69,
-    "w11": 1.32,
-    "w12": 3.94,
-    "w13": null,
-    "average": 24.25
-  },
-  {
-    "product_number": "P35130",
-    "name": "Pail, 8 oz PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 35.73,
-    "w11": 116.48,
-    "w12": -2.44,
-    "w13": null,
-    "average": 23.16
-  },
-  {
-    "product_number": "P35508",
-    "name": "Bowl, 20-22 oz Plastic Black PP Square PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 45.47,
-    "w11": 61.15,
-    "w12": 3.15,
-    "w13": null,
-    "average": 20.99
-  },
-  {
-    "product_number": "P35067",
-    "name": "Lid, 42-44 oz Cold Cup PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": -11.09,
-    "w11": 49.51,
-    "w12": 7.28,
-    "w13": null,
-    "average": 15.45
-  },
-  {
-    "product_number": "P35509",
-    "name": "Lid, 20-22 oz Bowl Clear Plastic PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 14.67,
-    "w11": -6.04,
-    "w12": 4.37,
-    "w13": null,
-    "average": 14.73
-  },
-  {
-    "product_number": "P35189",
-    "name": "Bag, T-Shirt Junior PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 11.73,
-    "w11": 101.92,
-    "w12": 6.99,
-    "w13": null,
-    "average": 14.67
-  },
-  {
-    "product_number": "P35081",
-    "name": "Pail, 26 oz PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 29.33,
-    "w11": 43.68,
-    "w12": 2.91,
-    "w13": null,
-    "average": 13.99
-  },
-  {
-    "product_number": "P35275",
-    "name": "Bag, Glassine 4.75 x 8.25 PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 35.2,
-    "w11": -87.19,
-    "w12": 19.92,
-    "w13": null,
-    "average": 11.19
-  },
-  {
-    "product_number": "P35065",
-    "name": "Lid, 30-32 oz Cold Cup PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 77.74,
-    "w11": 29.12,
-    "w12": 11.8,
-    "w13": null,
-    "average": 10.3
-  },
-  {
-    "product_number": "P35062",
-    "name": "Lid, 22 oz Cold Cup PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 9.17,
-    "w11": 14.15,
-    "w12": 11.8,
-    "w13": null,
-    "average": 9.56
-  },
-  {
-    "product_number": "P35094",
-    "name": "Plate, 9.25\" Fiber 3 Compartment PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 5.87,
-    "w11": 28.13,
-    "w12": 4.43,
-    "w13": null,
-    "average": 9.17
-  },
-  {
-    "product_number": "P35126",
-    "name": "Pail, 16 oz PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 9.53,
-    "w11": 43.69,
-    "w12": 4.47,
-    "w13": null,
-    "average": 8.58
-  },
-  {
-    "product_number": "P35268",
-    "name": "Cup, 30 oz Paper PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 6.45,
-    "w11": 3.67,
-    "w12": 2.95,
-    "w13": null,
-    "average": 8.02
-  },
-  {
-    "product_number": "P35269",
-    "name": "Cup, 42 oz Paper PX Logo",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 3.67,
-    "w11": 20.49,
-    "w12": 2.91,
-    "w13": null,
-    "average": 7.61
-  },
-  {
-    "product_number": "P35406",
-    "name": "Lid, Flat 12-24 oz",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 6.62,
-    "w11": -15.76,
-    "w12": 66.4,
-    "w13": null,
-    "average": 3.73
-  },
-  {
-    "product_number": "P35634",
-    "name": "Pail, Kid Panda Carton",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 2.94,
-    "w11": 12.38,
-    "w12": 41.31,
-    "w13": null,
-    "average": 3.01
-  },
-  {
-    "product_number": "P35380",
-    "name": "Cup, 24 oz Color Print PET",
-    "unit": "CT",
-    "category": "Paper",
-    "w10": 126.07,
-    "w11": 14.56,
-    "w12": 8.94,
-    "w13": null,
-    "average": 2.98
-  },
-  {
-    "product_number": "P1124",
-    "name": "Sauce, Soy Packet PX",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 73.34,
-    "w11": 47.28,
-    "w12": 65.52,
-    "w13": 63.44,
-    "average": 62.66
-  },
-  {
-    "product_number": "P1151",
-    "name": "Sauce, Chili Packet PX",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 20.53,
-    "w11": 11.04,
-    "w12": 13.25,
-    "w13": 12.4,
-    "average": 14.36
-  },
-  {
-    "product_number": "P137",
-    "name": "Sauce, Buldak Packet",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 2.35,
-    "w11": 6.93,
-    "w12": 5.82,
-    "w13": 2.95,
-    "average": 4.48
-  },
-  {
-    "product_number": "P1566",
-    "name": "Sauce, Teriyaki Sauce Packet PX",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 22.0,
-    "w11": 24.33,
-    "w12": 20.97,
-    "w13": 20.23,
-    "average": 21.84
-  },
-  {
-    "product_number": "P1652",
-    "name": "Sauce, Sweet & Sour Packets PX",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 95.34,
-    "w11": 63.04,
-    "w12": 54.6,
-    "w13": 62.7,
-    "average": 69.01
-  },
-  {
-    "product_number": "P23001",
-    "name": "Sauce, Mustard Packets PX",
-    "unit": "CT",
-    "category": "Condiments",
-    "w10": 22.0,
-    "w11": 7.88,
-    "w12": 14.56,
-    "w13": 7.38,
-    "average": 13.06
-  },
-  {
-    "product_number": "P141",
-    "name": "Sauce, Bottle Buldak 7.5oz",
-    "unit": "BOTL",
-    "category": "Other Cogs",
-    "w10": -0.38,
-    "w11": 0.18,
-    "w12": null,
-    "w13": null,
-    "average": -0.09
+{
+  "meta": {
+    "store": "2261",
+    "weeks": [
+      "W10 '26",
+      "W11 '26",
+      "W12 '26",
+      "W13 '26"
+    ],
+    "report": "Inventory Usage per $1000",
+    "source_file": "inventory_new.pdf"
+  },
+  "data": {
+    "Meat": [
+      {
+        "product_number": "P10002",
+        "product": "Chicken, Orange Dark Battered",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 23.35,
+          "W11 '26": 23.26,
+          "W12 '26": 22.71,
+          "W13 '26": 23.31
+        },
+        "average": 23.16
+      },
+      {
+        "product_number": "P10006",
+        "product": "Chicken, LTO Breast Btrd Chunk",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.39,
+          "W11 '26": 2.05,
+          "W12 '26": 1.53,
+          "W13 '26": 2.07
+        },
+        "average": 1.75
+      },
+      {
+        "product_number": "P10008",
+        "product": "Chicken, Breast Sliced Marinated",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.82,
+          "W11 '26": 0.63,
+          "W12 '26": 0.58,
+          "W13 '26": 0.59
+        },
+        "average": 0.66
+      },
+      {
+        "product_number": "P10018",
+        "product": "Chicken, Breast Bites Battered",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.03,
+          "W11 '26": 1.18,
+          "W12 '26": 0.73,
+          "W13 '26": 1.18
+        },
+        "average": 1.03
+      },
+      {
+        "product_number": "P10019",
+        "product": "Chicken, Dark Diced Marinated",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 2.93,
+          "W11 '26": 4.41,
+          "W12 '26": 2.8,
+          "W13 '26": 4.84
+        },
+        "average": 3.73
+      },
+      {
+        "product_number": "P10027",
+        "product": "Chicken, Breast Strip Battered",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 3.15,
+          "W11 '26": 2.76,
+          "W12 '26": 3.42,
+          "W13 '26": 3.32
+        },
+        "average": 3.17
+      },
+      {
+        "product_number": "P10028",
+        "product": "Chicken, Teriyaki Thigh Marinated",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 9.27,
+          "W11 '26": 8.82,
+          "W12 '26": 7.69,
+          "W13 '26": 8.85
+        },
+        "average": 8.65
+      },
+      {
+        "product_number": "P5007",
+        "product": "Beef, Sliced Marinated",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.64,
+          "W11 '26": 2.27,
+          "W12 '26": 2.45,
+          "W13 '26": 0.59
+        },
+        "average": 1.73
+      },
+      {
+        "product_number": "P5017",
+        "product": "Beef, BB Strip Breaded",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 3.23,
+          "W11 '26": 3.31,
+          "W12 '26": 2.91,
+          "W13 '26": 2.8
+        },
+        "average": 3.06
+      },
+      {
+        "product_number": "P5020",
+        "product": "Beef, Top Sirloin Steak",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.41,
+          "W11 '26": 1.26,
+          "W12 '26": 1.28,
+          "W13 '26": 2.24
+        },
+        "average": 1.55
+      }
+    ],
+    "Seafood": [
+      {
+        "product_number": "P16032",
+        "product": "Shrimp, Battered Tempura 29/33",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 4.85,
+          "W11 '26": 4.46,
+          "W12 '26": 4.63,
+          "W13 '26": 4.44
+        },
+        "average": 4.6
+      }
+    ],
+    "Produce": [
+      {
+        "product_number": "P19961",
+        "product": "Kale, Chopped",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.12,
+          "W11 '26": 0.13,
+          "W12 '26": 0.18,
+          "W13 '26": 0.14
+        },
+        "average": null
+      },
+      {
+        "product_number": "P19910",
+        "product": "Bell Pepper, Yellow",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.1,
+          "W11 '26": 0.91,
+          "W12 '26": 0.71,
+          "W13 '26": 0.68
+        },
+        "average": 0.85
+      },
+      {
+        "product_number": "P19909",
+        "product": "Bell Pepper, Red",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.48,
+          "W11 '26": 2.62,
+          "W12 '26": 1.67,
+          "W13 '26": 1.95
+        },
+        "average": 1.92
+      },
+      {
+        "product_number": "P19186",
+        "product": "Bean, Green Washed & Trimmed",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.48,
+          "W11 '26": 2.76,
+          "W12 '26": 0.8,
+          "W13 '26": 1.99
+        },
+        "average": 1.74
+      },
+      {
+        "product_number": "P19169",
+        "product": "Baby Broccoli",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.47,
+          "W11 '26": 0.3,
+          "W12 '26": 0.22,
+          "W13 '26": 0.4
+        },
+        "average": 0.35
+      },
+      {
+        "product_number": "P19149",
+        "product": "Cabbage, K-Minus Shredded",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 7.1,
+          "W11 '26": 6.18,
+          "W12 '26": 8.27,
+          "W13 '26": 6.85
+        },
+        "average": 7.12
+      },
+      {
+        "product_number": "P19147",
+        "product": "Kale, Shredded",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.26,
+          "W11 '26": 0.39,
+          "W12 '26": 0.45,
+          "W13 '26": 0.1
+        },
+        "average": 0.3
+      },
+      {
+        "product_number": "P19085",
+        "product": "Celery K",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.47,
+          "W11 '26": 0.22,
+          "W12 '26": 1.99,
+          "W13 '26": 0.9
+        },
+        "average": null
+      },
+      {
+        "product_number": "P19078",
+        "product": "Broccoli Florets",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.18,
+          "W11 '26": 0.18,
+          "W12 '26": null,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P19055",
+        "product": "Zucchini",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.06,
+          "W11 '26": 0.33,
+          "W12 '26": 1.76,
+          "W13 '26": 2.21
+        },
+        "average": 1.1
+      },
+      {
+        "product_number": "P19048",
+        "product": "Onion, Yellow Fresh",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 3.51,
+          "W11 '26": 3.15,
+          "W12 '26": 3.13,
+          "W13 '26": 2.95
+        },
+        "average": 3.19
+      },
+      {
+        "product_number": "P19046",
+        "product": "Onion, Green",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.67,
+          "W11 '26": 0.5,
+          "W12 '26": 0.32,
+          "W13 '26": 0.27
+        },
+        "average": 0.44
+      },
+      {
+        "product_number": "P19045",
+        "product": "Mushroom, Fresh",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.2,
+          "W11 '26": 1.23,
+          "W12 '26": 1.6,
+          "W13 '26": 1.4
+        },
+        "average": 1.36
+      },
+      {
+        "product_number": "P19025",
+        "product": "Celery",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.1,
+          "W11 '26": 1.1,
+          "W12 '26": 2.29,
+          "W13 '26": -1.03
+        },
+        "average": 0.87
+      },
+      {
+        "product_number": "P19016",
+        "product": "Cabbage",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.39,
+          "W11 '26": 1.47,
+          "W12 '26": 1.82,
+          "W13 '26": 1.03
+        },
+        "average": 1.43
+      },
+      {
+        "product_number": "P19013",
+        "product": "Broccoli",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 5.12,
+          "W11 '26": 4.57,
+          "W12 '26": 4.73,
+          "W13 '26": 5.68
+        },
+        "average": 5.03
+      },
+      {
+        "product_number": "P19005",
+        "product": "Bean, Green",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.15,
+          "W11 '26": 0.15,
+          "W12 '26": null,
+          "W13 '26": null
+        },
+        "average": null
+      }
+    ],
+    "Grocery": [
+      {
+        "product_number": "P1079",
+        "product": "Cookies, Fortune PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 93.87,
+          "W11 '26": 94.55,
+          "W12 '26": 104.84,
+          "W13 '26": 88.52
+        },
+        "average": 95.49
+      },
+      {
+        "product_number": "P1260",
+        "product": "Rangoon, Cream Cheese",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 51.04,
+          "W11 '26": 51.69,
+          "W12 '26": 53.87,
+          "W13 '26": 52.82
+        },
+        "average": 52.37
+      },
+      {
+        "product_number": "P1001",
+        "product": "Springroll, Veg",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 34.85,
+          "W11 '26": 20.05,
+          "W12 '26": 20.27,
+          "W13 '26": 19.47
+        },
+        "average": 23.72
+      },
+      {
+        "product_number": "P1102",
+        "product": "Noodles, (K-) Chow Mein",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 12.85,
+          "W11 '26": 15.6,
+          "W12 '26": 16.16,
+          "W13 '26": 15.49
+        },
+        "average": 15.02
+      },
+      {
+        "product_number": "P1112",
+        "product": "Rice, Long Grain",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 12.1,
+          "W11 '26": 11.43,
+          "W12 '26": 10.19,
+          "W13 '26": 10.92
+        },
+        "average": 11.15
+      },
+      {
+        "product_number": "P2169",
+        "product": "Sauce, Orange Chicken RTU",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 11.5,
+          "W11 '26": 8.62,
+          "W12 '26": 10.2,
+          "W13 '26": 10.39
+        },
+        "average": 10.2
+      },
+      {
+        "product_number": "P1107",
+        "product": "Oil, Salad",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 6.67,
+          "W11 '26": 9.93,
+          "W12 '26": 9.17,
+          "W13 '26": 9.81
+        },
+        "average": 8.88
+      },
+      {
+        "product_number": "P1004",
+        "product": "Eggroll, Chicken",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 4.55,
+          "W11 '26": 11.19,
+          "W12 '26": 6.12,
+          "W13 '26": 6.93
+        },
+        "average": 7.12
+      },
+      {
+        "product_number": "P2002",
+        "product": "Eggs, Liquid Cage Free",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 2.17,
+          "W11 '26": 2.46,
+          "W12 '26": 2.3,
+          "W13 '26": 2.04
+        },
+        "average": 2.24
+      },
+      {
+        "product_number": "P1295",
+        "product": "Sauce, Sweet and Sour PX",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.93,
+          "W11 '26": 1.65,
+          "W12 '26": 1.53,
+          "W13 '26": 1.94
+        },
+        "average": 1.76
+      },
+      {
+        "product_number": "P1249",
+        "product": "Sauce, Honey Walnut PX",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.76,
+          "W11 '26": 1.7,
+          "W12 '26": 1.69,
+          "W13 '26": 1.89
+        },
+        "average": 1.76
+      },
+      {
+        "product_number": "P1404",
+        "product": "Sauce, Honey",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.76,
+          "W11 '26": 1.58,
+          "W12 '26": 1.46,
+          "W13 '26": 1.83
+        },
+        "average": 1.66
+      },
+      {
+        "product_number": "P1684",
+        "product": "Apple, Crisps Dried",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 1.47,
+          "W11 '26": 1.87,
+          "W12 '26": 1.84,
+          "W13 '26": 1.36
+        },
+        "average": 1.63
+      },
+      {
+        "product_number": "P19054",
+        "product": "Peas & Carrots",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.83,
+          "W11 '26": 1.42,
+          "W12 '26": 1.31,
+          "W13 '26": 1.48
+        },
+        "average": 1.51
+      },
+      {
+        "product_number": "P1801",
+        "product": "Sauce, LTO Dynamite Sweet & Sour w/Buldak",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.7,
+          "W11 '26": 1.13,
+          "W12 '26": 0.35,
+          "W13 '26": 1.24
+        },
+        "average": 0.85
+      },
+      {
+        "product_number": "P19002",
+        "product": "Pineapple, Chunk",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.69,
+          "W11 '26": 0.63,
+          "W12 '26": 0.49,
+          "W13 '26": 0.49
+        },
+        "average": 0.57
+      },
+      {
+        "product_number": "P1233",
+        "product": "Sauce, SweetFire PX",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.88,
+          "W11 '26": 0.69,
+          "W12 '26": 0.06,
+          "W13 '26": 0.59
+        },
+        "average": 0.55
+      },
+      {
+        "product_number": "P1580",
+        "product": "Sauce, Stir Fry Black Pepper",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 1.06,
+          "W11 '26": -0.06,
+          "W12 '26": 0.47,
+          "W13 '26": 0.59
+        },
+        "average": 0.52
+      },
+      {
+        "product_number": "P1093",
+        "product": "Ginger, Garlic Blend",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.35,
+          "W11 '26": 0.32,
+          "W12 '26": 0.52,
+          "W13 '26": 0.44
+        },
+        "average": 0.41
+      },
+      {
+        "product_number": "P1158",
+        "product": "Nuts, Walnut Glazed",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.35,
+          "W11 '26": 0.44,
+          "W12 '26": 0.55,
+          "W13 '26": 0.12
+        },
+        "average": 0.37
+      },
+      {
+        "product_number": "P1116",
+        "product": "Sauce, Cooking Basic (K-)",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.31,
+          "W11 '26": 0.3,
+          "W12 '26": 0.22,
+          "W13 '26": 0.33
+        },
+        "average": 0.29
+      },
+      {
+        "product_number": "P1268",
+        "product": "Sauce, Stir Fry PX",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.07,
+          "W11 '26": 0.39,
+          "W12 '26": 0.36,
+          "W13 '26": 0.3
+        },
+        "average": 0.28
+      },
+      {
+        "product_number": "P1272",
+        "product": "Starch, Modified PX",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.07,
+          "W11 '26": -0.04,
+          "W12 '26": 0.29,
+          "W13 '26": 0.77
+        },
+        "average": 0.28
+      },
+      {
+        "product_number": "P19052",
+        "product": "Nuts, Peanuts",
+        "unit": "LB",
+        "weeks": {
+          "W10 '26": 0.21,
+          "W11 '26": 0.16,
+          "W12 '26": 0.15,
+          "W13 '26": 0.3
+        },
+        "average": 0.2
+      },
+      {
+        "product_number": "P25005",
+        "product": "Bev, Dr. Pepper BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.15,
+          "W11 '26": 0.13,
+          "W12 '26": 0.14,
+          "W13 '26": 0.16
+        },
+        "average": 0.14
+      },
+      {
+        "product_number": "P25341",
+        "product": "Bev, Tea Black WB",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 0.47,
+          "W11 '26": -0.5,
+          "W12 '26": 0.09,
+          "W13 '26": 0.38
+        },
+        "average": 0.12
+      },
+      {
+        "product_number": "P25004",
+        "product": "Bev, Coke Diet BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.12,
+          "W11 '26": -0.02,
+          "W12 '26": 0.15,
+          "W13 '26": 0.09
+        },
+        "average": 0.09
+      },
+      {
+        "product_number": "P25077",
+        "product": "Bev, Coke Cherry BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.17,
+          "W11 '26": 0.05,
+          "W12 '26": 0.06,
+          "W13 '26": 0.07
+        },
+        "average": 0.09
+      },
+      {
+        "product_number": "P25003",
+        "product": "Bev, Coke Classic BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.11,
+          "W11 '26": 0.04,
+          "W12 '26": 0.12,
+          "W13 '26": -0.01
+        },
+        "average": 0.07
+      },
+      {
+        "product_number": "P25027",
+        "product": "Bev, Coke Sprite 5G BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.07,
+          "W11 '26": 0.06,
+          "W12 '26": 0.03,
+          "W13 '26": 0.06
+        },
+        "average": 0.05
+      },
+      {
+        "product_number": "P25933",
+        "product": "Bev, Fuze Rasberry BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.06,
+          "W11 '26": 0.05,
+          "W12 '26": 0.03,
+          "W13 '26": 0.05
+        },
+        "average": 0.05
+      },
+      {
+        "product_number": "P25943",
+        "product": "Bev, Coke Minute Maid Lemonade BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.06,
+          "W11 '26": 0.06,
+          "W12 '26": 0.03,
+          "W13 '26": 0.04
+        },
+        "average": 0.05
+      },
+      {
+        "product_number": "P25006",
+        "product": "Bev, Coke Fanta Orange BIB",
+        "unit": "GAL",
+        "weeks": {
+          "W10 '26": 0.07,
+          "W11 '26": 0.06,
+          "W12 '26": 0.02,
+          "W13 '26": 0.04
+        },
+        "average": 0.04
+      },
+      {
+        "product_number": "P35432",
+        "product": "Napkin, Kraft Interfold PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 126.07,
+          "W11 '26": 116.48,
+          "W12 '26": 121.09,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35542",
+        "product": "Kit, Cutlery PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 65.99,
+          "W11 '26": 28.38,
+          "W12 '26": 61.15,
+          "W13 '26": 66.4
+        },
+        "average": 55.95
+      },
+      {
+        "product_number": "P35135",
+        "product": "Container, Foam White 3-Compartment PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 52.8,
+          "W11 '26": 53.58,
+          "W12 '26": 49.51,
+          "W13 '26": 41.31
+        },
+        "average": 49.24
+      },
+      {
+        "product_number": "P35580",
+        "product": "Chopsticks, Bamboo Wrapped PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 142.23,
+          "W11 '26": 18.48,
+          "W12 '26": -6.04,
+          "W13 '26": 8.94
+        },
+        "average": 41.26
+      },
+      {
+        "product_number": "P35048",
+        "product": "Fork, Plastic Black Heavy",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 58.67,
+          "W11 '26": -31.52,
+          "W12 '26": 101.92,
+          "W13 '26": 29.51
+        },
+        "average": 41.03
+      },
+      {
+        "product_number": "P35477",
+        "product": "Bag, T-Shirt Large PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 7.33,
+          "W11 '26": 63.04,
+          "W12 '26": 43.68,
+          "W13 '26": 44.26
+        },
+        "average": 39.17
+      },
+      {
+        "product_number": "P35078",
+        "product": "Napkin, Kraft",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 87.83,
+          "W11 '26": -87.19,
+          "W12 '26": 88.35,
+          "W13 '26": 29.26
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35213",
+        "product": "Straw, 8.75\" Clear Wrapped",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 22.0,
+          "W11 '26": 15.76,
+          "W12 '26": 29.12,
+          "W13 '26": 29.51
+        },
+        "average": 24.25
+      },
+      {
+        "product_number": "P35130",
+        "product": "Pail, 8 oz PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 50.69,
+          "W11 '26": 11.91,
+          "W12 '26": 14.15,
+          "W13 '26": 15.14
+        },
+        "average": 23.16
+      },
+      {
+        "product_number": "P35508",
+        "product": "Bowl, 20-22 oz Plastic Black PP Square PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 35.73,
+          "W11 '26": 1.32,
+          "W12 '26": 28.13,
+          "W13 '26": 17.35
+        },
+        "average": 20.99
+      },
+      {
+        "product_number": "P35067",
+        "product": "Lid, 42-44 oz Cold Cup PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 45.47,
+          "W11 '26": -14.75,
+          "W12 '26": 15.45,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35509",
+        "product": "Lid, 20-22 oz Bowl Clear Plastic PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": -11.09,
+          "W11 '26": 43.69,
+          "W12 '26": 3.67,
+          "W13 '26": 24.79
+        },
+        "average": 14.73
+      },
+      {
+        "product_number": "P35189",
+        "product": "Bag, T-Shirt Junior PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 14.67,
+          "W11 '26": 14.67,
+          "W12 '26": null,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35081",
+        "product": "Pail, 26 oz PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 11.73,
+          "W11 '26": 20.49,
+          "W12 '26": 12.38,
+          "W13 '26": 11.8
+        },
+        "average": 13.99
+      },
+      {
+        "product_number": "P35275",
+        "product": "Bag, Glassine 4.75 x 8.25 PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 29.33,
+          "W11 '26": -15.76,
+          "W12 '26": 14.56,
+          "W13 '26": 14.75
+        },
+        "average": 11.19
+      },
+      {
+        "product_number": "P35065",
+        "product": "Lid, 30-32 oz Cold Cup PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 35.2,
+          "W11 '26": -14.75,
+          "W12 '26": 10.3,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35062",
+        "product": "Lid, 22 oz Cold Cup PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 77.74,
+          "W11 '26": -59.01,
+          "W12 '26": 9.56,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35094",
+        "product": "Plate, 9.25\" Fiber 3 Compartment PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 9.17,
+          "W11 '26": 9.17,
+          "W12 '26": null,
+          "W13 '26": null
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35126",
+        "product": "Pail, 16 oz PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 5.87,
+          "W11 '26": 0.79,
+          "W12 '26": 7.28,
+          "W13 '26": 19.92
+        },
+        "average": 8.58
+      },
+      {
+        "product_number": "P35268",
+        "product": "Cup, 30 oz Paper PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 9.53,
+          "W11 '26": 6.31,
+          "W12 '26": 4.37,
+          "W13 '26": 11.8
+        },
+        "average": 8.02
+      },
+      {
+        "product_number": "P35269",
+        "product": "Cup, 42 oz Paper PX Logo",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 6.45,
+          "W11 '26": 5.04,
+          "W12 '26": 6.99,
+          "W13 '26": 11.8
+        },
+        "average": 7.61
+      },
+      {
+        "product_number": "P35406",
+        "product": "Lid, Flat 12-24 oz",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 3.67,
+          "W11 '26": 3.94,
+          "W12 '26": 2.91,
+          "W13 '26": 4.43
+        },
+        "average": 3.73
+      },
+      {
+        "product_number": "P35634",
+        "product": "Pail, Kid Panda Carton",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 6.62,
+          "W11 '26": -2.44,
+          "W12 '26": 4.47,
+          "W13 '26": 3.01
+        },
+        "average": null
+      },
+      {
+        "product_number": "P35380",
+        "product": "Cup, 24 oz Color Print PET",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 2.94,
+          "W11 '26": 3.15,
+          "W12 '26": 2.91,
+          "W13 '26": 2.95
+        },
+        "average": 2.98
+      },
+      {
+        "product_number": "P1124",
+        "product": "Sauce, Soy Packet PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 73.34,
+          "W11 '26": 47.28,
+          "W12 '26": 65.52,
+          "W13 '26": 63.44
+        },
+        "average": 62.66
+      },
+      {
+        "product_number": "P1151",
+        "product": "Sauce, Chili Packet PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 20.53,
+          "W11 '26": 11.04,
+          "W12 '26": 13.25,
+          "W13 '26": 12.4
+        },
+        "average": 14.36
+      },
+      {
+        "product_number": "P137",
+        "product": "Sauce, Buldak Packet",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 2.35,
+          "W11 '26": 6.93,
+          "W12 '26": 5.82,
+          "W13 '26": 2.95
+        },
+        "average": 4.48
+      },
+      {
+        "product_number": "P1566",
+        "product": "Sauce, Teriyaki Sauce Packet PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 22.0,
+          "W11 '26": 24.33,
+          "W12 '26": 20.97,
+          "W13 '26": 20.23
+        },
+        "average": 21.84
+      },
+      {
+        "product_number": "P1652",
+        "product": "Sauce, Sweet & Sour Packets PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 95.34,
+          "W11 '26": 63.04,
+          "W12 '26": 54.6,
+          "W13 '26": 62.7
+        },
+        "average": 69.01
+      },
+      {
+        "product_number": "P23001",
+        "product": "Sauce, Mustard Packets PX",
+        "unit": "CT",
+        "weeks": {
+          "W10 '26": 22.0,
+          "W11 '26": 7.88,
+          "W12 '26": 14.56,
+          "W13 '26": 7.38
+        },
+        "average": 13.06
+      }
+    ]
   }
-]
+}
